@@ -1,4 +1,4 @@
-# Verify SDK for iOS
+# IBM Verify SDK for iOS
 
 [![SDK Version](https://img.shields.io/badge/version-2.0.2-lightgray.svg)](https://ibm.biz/ibmsecuritymobileaccesssdk)
 ![Swift Version](https://img.shields.io/badge/swift-4.2-orange.svg)
