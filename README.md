@@ -1,9 +1,9 @@
-# Mobile Access SDK for iOS
+# Verify SDK for iOS
 
 [![SDK Version](https://img.shields.io/badge/version-2.0.2-lightgray.svg)](https://ibm.biz/ibmsecuritymobileaccesssdk)
 ![Swift Version](https://img.shields.io/badge/swift-4.2-orange.svg)
 
-This repository contains sample apps and code snippets to showcase and provide guidance when developing mobile applications with the IBM Mobile Access SDK. The following steps will help you get started.
+This repository contains sample apps and code snippets to showcase and provide guidance when developing mobile applications with the IBM Verify SDK. The following steps will help you get started.
 
 [Looking for the Android version?](https://github.com/ibm-security/verify-sdk-android)
 
